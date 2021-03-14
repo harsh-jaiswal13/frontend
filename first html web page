@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title> MY FIRST WEB PAGE</title>
+   </head>
+   <body>
+     <h1>first web page</h1>
+     <h2>second header</h2>
+     <p> this is first para garph for  </p>
+     <p>this is second para</p>
+   </body> 
+
+
+</html>
